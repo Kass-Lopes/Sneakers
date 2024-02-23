@@ -40,7 +40,8 @@
 @media(max-width:600px){
     .logo{
         width: 130px;
-        margin-right: 3em;
+        margin-right: 2em;
+        margin-left: 5px;
     }
     .cart{
         width: 90%;
