@@ -39,8 +39,8 @@
 }
 @media(max-width:600px){
     .logo{
-        width: 150px;
-        margin-right: 5em;
+        width: 130px;
+        margin-right: 3em;
     }
     .cart{
         width: 90%;
