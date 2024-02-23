@@ -41,7 +41,7 @@ function Main( {marginTop, value, increment, decrement, putImageInCartAndMain, i
 
                 </div>
 
-                <div className='flex flex-col largura lg:p-5 pt-9 pr-5 pl-5 mb-10 justify-center '>
+                <div className='flex flex-col largura lg:p-5 pt-9 pr-5  mb-10 justify-center '>
                     <p className='letra font-semibold'>SNEAKER COMPANY</p>
                     <h1 className='flex title-fall flex-wrap'>Fall Limited Edition Sneaker </h1>
                     <p className='flex mt-3 mb-5 text-lg text-gray-500 flex-wrap'>These low-profile sneakers are you perfect casual wear companion.
@@ -72,7 +72,7 @@ function Main( {marginTop, value, increment, decrement, putImageInCartAndMain, i
                         <FaPlus className='text-orange-500 text-xl' onClick={ increment } />
 
                     </div>
-                    <button className='ml-11 bg-orange-500 pt-5 pb-5 pl-14 pr-14 text-white text-xl font-semibold rounded-xl lg:hidden text-center'> Add to Cart </button>
+                    <button className='ml-11 bg-orange-500 pt-5 pb-5 pl-14 pr-14 text-white text-xl font-semibold rounded-xl lg:hidden text-center mr-3'> Add to Cart </button>
                 </div>
            </div>
         </main>
