@@ -20,7 +20,7 @@ function Header( {showCart} ) {
     return ( 
         <header className=" lg:flex bg-white lg:container 
         lg:justify-between lg:items-center header flex justify-between 
-        w-full pl-8 pr-8 items-center ">
+        w-full pl-3 pr-4 items-center ">
 
           { 
           /*<FaWindowClose className='flex w-7 h-7 relative left-6 lg:hidden' /> */
