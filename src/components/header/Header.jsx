@@ -57,7 +57,7 @@ function Header( {showCart} ) {
             <div>
                 <div className='flex items-center justify-center h-14 gap-7 lg:mr-20 '>
                     <img src={car} className=' cursor-pointer text-gray-700' onClick={ showCart } />
-                    <a href="https://web.facebook.com/kasslopes0" target='_blanck'> <img src={avatar} className='flex rounded-full h-8 w-8' /> </a>
+                    <a href="https://www.contate.me/kasslopes" target='_blanck'> <img src={avatar} className='flex rounded-full h-8 w-8' /> </a>
                 </div>
             </div>
         </header>
